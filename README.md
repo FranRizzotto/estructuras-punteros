@@ -1,4 +1,4 @@
-\# C++ – Gestión de empleados y ventas
+# C++ – Gestión de empleados y ventas
 
 
 
@@ -14,19 +14,19 @@ de información.
 
 
 
-\- 📁 \*\*estructuras/\*\*  
+ 📁 \*\*estructuras/\*\*  
 
 &nbsp; Implementación usando estructuras y vectores.
 
 
 
-\- 📁 \*\*punteros/\*\*  
+ 📁 \*\*punteros/\*\*  
 
 &nbsp; Implementación usando punteros, listas enlazadas y memoria dinámica.
 
 
 
-\## Funcionalidades
+## Funcionalidades
 
 \- Alta, baja y modificación de empleados
 
