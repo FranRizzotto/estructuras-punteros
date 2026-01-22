@@ -14,13 +14,13 @@
 
 
 
- \-📁 \*\*estructuras/\*\*  
+ \-📁 estructuras
 
 &nbsp; Implementación usando estructuras y vectores.
 
 
 
- \-📁 \*\*punteros/\*\*  
+ \-📁 punteros  
 
 &nbsp; Implementación usando punteros, listas enlazadas y memoria dinámica.
 
