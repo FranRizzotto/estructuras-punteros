@@ -10,7 +10,7 @@
 
 
 
-## Versiones del proyecto
+## 🚀Versiones del proyecto
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-## Funcionalidades
+## 📊Funcionalidades
 
 \- Alta, baja y modificación de empleados
 
@@ -38,7 +38,7 @@
 
 
 
-## Tecnologías
+## 💻Tecnologías
 
 \- Lenguaje: C++
 
